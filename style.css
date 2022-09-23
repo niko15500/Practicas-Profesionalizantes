@@ -1286,5 +1286,6 @@ footer {
 }
 
 .grid-container{
-	margin-bottom: 5% !important ;
+	margin-bottom: 5% !important;
+	margin-top: 1px;
 }
