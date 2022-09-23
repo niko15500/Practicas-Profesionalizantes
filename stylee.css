@@ -88,8 +88,8 @@ a:nth-child(5):hover ~ .animation {
 }
 
 :root {
-  --dark-grey: #666;
-  --grey: #d9d9d9;
+  --dark-grey: rgb(188, 185, 178);
+  --grey: rgb(255, 183, 0) ;
   --dark-blue: #36299b;
   --red: #b53751;
 }
@@ -285,4 +285,5 @@ body, html {
 
 #asd {
   margin-bottom: 5% !important;
+  margin-top: 0px !important;
 }/*# sourceMappingURL=stylee.css.map */
