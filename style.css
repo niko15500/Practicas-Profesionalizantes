@@ -1282,8 +1282,8 @@ footer {
 }
 
 
-
 .sobre{
+	
 	margin-top: 4% !important;
 }
 
@@ -1299,6 +1299,7 @@ footer {
 	margin-bottom: 5% !important;
 	margin-top: 1px;
 }
+
 .fab {
 	position:fixed;
   width:60px;
@@ -1323,10 +1324,6 @@ footer {
 	background: #45bbff;
 	color: white;
 	}
-
-
-
-
 
 
 
