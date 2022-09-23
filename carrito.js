@@ -1,3 +1,5 @@
+
+
 console.log("carrito");
 
 const cards = document.getElementById("cards")
